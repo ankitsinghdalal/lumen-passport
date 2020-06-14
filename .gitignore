@@ -1,0 +1,10 @@
+/storage/*.key
+/vendor
+/.idea
+/.rnd
+/.rndx
+Homestead.json
+Homestead.yaml
+.env
+.phpunit.result.cache
+/nbproject
